@@ -1,0 +1,57 @@
+[
+  {
+    "key": "daily",
+    "original": "exec-6c59f210-b693-42a1-9322-99d520821838.png",
+    "path": "assets/scenes/daily-office-v3.webp",
+    "width": 948,
+    "height": 1660,
+    "alpha_margin_crop": null,
+    "bytes": 355268
+  },
+  {
+    "key": "workbench",
+    "original": "exec-db557637-9b60-4ba7-b2da-742fe0fc6591.png",
+    "path": "assets/scenes/potion-workbench-v3.webp",
+    "width": 948,
+    "height": 1659,
+    "alpha_margin_crop": null,
+    "bytes": 402204
+  },
+  {
+    "key": "route",
+    "original": "exec-7110e7e7-7a51-450d-b5f8-b5e2191c24b6.png",
+    "path": "assets/scenes/woodland-route-v3.webp",
+    "width": 948,
+    "height": 1659,
+    "alpha_margin_crop": null,
+    "bytes": 650716
+  },
+  {
+    "key": "ornament",
+    "original": "exec-6a5c7e04-2d1d-4296-a6d2-7a1c5a283370.png",
+    "path": "assets/ui/bloom-ornament-v3.webp",
+    "width": 256,
+    "height": 255,
+    "alpha_margin_crop": [
+      86,
+      78,
+      1193,
+      1181
+    ],
+    "bytes": 57760
+  },
+  {
+    "key": "plinth",
+    "original": "exec-12d32635-f576-48ad-b591-e91e9ee08098.png",
+    "path": "assets/ui/companion-plinth-v3.webp",
+    "width": 1024,
+    "height": 392,
+    "alpha_margin_crop": [
+      74,
+      83,
+      1877,
+      774
+    ],
+    "bytes": 154778
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "id": "clovermeadow",
+    "name": "Clover Meadow",
+    "courier": "rabbit",
+    "firstOrder": 80,
+    "count": 40,
+    "tagline": "A little luck in every letter",
+    "accent": "#edc6f2"
+  },
+  {
+    "id": "owlwood",
+    "name": "Owlwood",
+    "courier": "owl",
+    "firstOrder": 120,
+    "count": 40,
+    "tagline": "Follow the lanterns after dusk",
+    "accent": "#f5d58c"
+  },
+  {
+    "id": "bramblebrook",
+    "name": "Bramble Brook",
+    "courier": "raccoon",
+    "firstOrder": 160,
+    "count": 40,
+    "tagline": "Secret paths beside the stream",
+    "accent": "#eda4b7"
+  },
+  {
+    "id": "otterbend",
+    "name": "Otter Bend",
+    "courier": "otter",
+    "firstOrder": 200,
+    "count": 40,
+    "tagline": "Postcards from the riverbank",
+    "accent": "#ffd590"
+  },
+  {
+    "id": "hazelhedge",
+    "name": "Hazel Hedge",
+    "courier": "hedgehog",
+    "firstOrder": 240,
+    "count": 40,
+    "tagline": "Small parcels, big adventures",
+    "accent": "#f4ae93"
+  },
+  {
+    "id": "cherryveil",
+    "name": "Cherry Veil",
+    "courier": "cat",
+    "firstOrder": 280,
+    "count": 40,
+    "tagline": "Petals carry your wishes",
+    "accent": "#fff0d7"
+  },
+  {
+    "id": "mushroomvale",
+    "name": "Mushroom Vale",
+    "courier": "frog",
+    "firstOrder": 320,
+    "count": 40,
+    "tagline": "Tiny doors and taller tales",
+    "accent": "#e9afc1"
+  },
+  {
+    "id": "buttercupbay",
+    "name": "Buttercup Bay",
+    "courier": "otter",
+    "firstOrder": 360,
+    "count": 40,
+    "tagline": "Sunshine by the water",
+    "accent": "#ffe192"
+  },
+  {
+    "id": "silverwillow",
+    "name": "Silver Willow",
+    "courier": "moth",
+    "firstOrder": 400,
+    "count": 40,
+    "tagline": "A quiet place to find your glow",
+    "accent": "#e9d5ff"
+  },
+  {
+    "id": "rosegate",
+    "name": "Rosegate",
+    "courier": "rabbit",
+    "firstOrder": 440,
+    "count": 40,
+    "tagline": "Every bloom has a message",
+    "accent": "#f4a6bd"
+  },
+  {
+    "id": "fireflyfen",
+    "name": "Firefly Fen",
+    "courier": "frog",
+    "firstOrder": 480,
+    "count": 40,
+    "tagline": "A thousand tiny lights lead home",
+    "accent": "#e7ed9a"
+  },
+  {
+    "id": "peachterrace",
+    "name": "Peach Terrace",
+    "courier": "fox",
+    "firstOrder": 520,
+    "count": 40,
+    "tagline": "Warm wishes above the clouds",
+    "accent": "#ffc6ae"
+  },
+  {
+    "id": "crystalcreek",
+    "name": "Crystal Creek",
+    "courier": "owl",
+    "firstOrder": 560,
+    "count": 40,
+    "tagline": "Where the water catches stars",
+    "accent": "#d6bfff"
+  },
+  {
+    "id": "fernwhisper",
+    "name": "Fernwhisper",
+    "courier": "hedgehog",
+    "firstOrder": 600,
+    "count": 40,
+    "tagline": "Listen for the forest post",
+    "accent": "#e2c4ff"
+  },
+  {
+    "id": "dandeliondrift",
+    "name": "Dandelion Drift",
+    "courier": "rabbit",
+    "firstOrder": 640,
+    "count": 40,
+    "tagline": "Send your wishes on the breeze",
+    "accent": "#fff1b2"
+  },
+  {
+    "id": "cinnamonwood",
+    "name": "Cinnamon Wood",
+    "courier": "raccoon",
+    "firstOrder": 680,
+    "count": 40,
+    "tagline": "A cozy stop on a winding route",
+    "accent": "#f4c77f"
+  },
+  {
+    "id": "auroraglen",
+    "name": "Aurora Glen",
+    "courier": "moth",
+    "firstOrder": 720,
+    "count": 40,
+    "tagline": "Letters under dancing skies",
+    "accent": "#e8b8f2"
+  },
+  {
+    "id": "poppylantern",
+    "name": "Poppy Lantern",
+    "courier": "fox",
+    "firstOrder": 760,
+    "count": 40,
+    "tagline": "Let the warm lights guide you",
+    "accent": "#f6a18c"
+  },
+  {
+    "id": "bluebellhollow",
+    "name": "Bluebell Hollow",
+    "courier": "owl",
+    "firstOrder": 800,
+    "count": 40,
+    "tagline": "A melody in every delivery",
+    "accent": "#bdb4f4"
+  },
+  {
+    "id": "jadeisles",
+    "name": "Jade Isles",
+    "courier": "otter",
+    "firstOrder": 840,
+    "count": 40,
+    "tagline": "One more bridge to a new friend",
+    "accent": "#f7d9a5"
+  },
+  {
+    "id": "honeydewheights",
+    "name": "Honeydew Heights",
+    "courier": "hedgehog",
+    "firstOrder": 880,
+    "count": 40,
+    "tagline": "Sweet views from the hilltop",
+    "accent": "#ffda99"
+  },
+  {
+    "id": "twilightorchid",
+    "name": "Twilight Orchid",
+    "courier": "cat",
+    "firstOrder": 920,
+    "count": 40,
+    "tagline": "Special deliveries after sunset",
+    "accent": "#e6afdd"
+  },
+  {
+    "id": "wishinggarden",
+    "name": "Wishing Garden",
+    "courier": "dragon",
+    "firstOrder": 960,
+    "count": 40,
+    "tagline": "Every journey begins with a wish",
+    "accent": "#ffe4a2"
+  }
+]

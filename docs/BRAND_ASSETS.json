@@ -1,0 +1,21 @@
+{
+  "master": "assets/potion-post-icon.png",
+  "in_app_brand": "assets/icons/app-brand.webp",
+  "store_icon": "store/potion-post-play-icon-512.png",
+  "android_adaptive": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+  "android_foreground": "android/app/src/main/res/drawable/ic_launcher_foreground.xml",
+  "android_monochrome": "android/app/src/main/res/drawable/ic_launcher_monochrome.xml",
+  "android_bitmap": "android/app/src/main/res/drawable-nodpi/launcher_art.png",
+  "android_legacy": [
+    "android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+  ],
+  "ios_catalog": "ios/Runner/Assets.xcassets/AppIcon.appiconset",
+  "generation_reference": "assets/worlds/pose-dragon.webp",
+  "description": "Pip, the established mint dragon courier, holding a glowing amber potion and a sealed envelope against deep teal.",
+  "new_generated_icon_art": true,
+  "garden_or_courier_assets_replaced": false
+}

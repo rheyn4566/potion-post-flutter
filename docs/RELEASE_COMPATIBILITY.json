@@ -1,0 +1,16 @@
+{
+  "baseline_source_version": 20,
+  "unchanged_sha256": {
+    "lib/game_controller.dart": "fd4282d342bb6a5e9ec3eafc18ee277c98835daffaa1cf45c368ad99927001e6",
+    "assets/orders.json": "76d3e4b8c856703e285f12940ebb8b3e11f95a5e71fed9aea319bd39332a56f1",
+    "lib/data/file_progress_store.dart": "fe4bb57bccc0f159ba3fb10b33b076a91fccb36a49811b01a8e201c07834d1ba",
+    "lib/data/progress_store.dart": "5026fdaf366a48b9a336294e0dfb049f987be449dee18dea92196ef1d4f71a83",
+    "lib/data/progress_store_types.dart": "7fd11a688db498798630b037eb0520bea1842f93089381a12adac6e335e01514",
+    "lib/domain/catalog.dart": "bdd3a8c1148e9c93834b703fa0187502c7a0c28dd932e3ef0be0354d7ca04aa8",
+    "lib/domain/economy.dart": "c4815ffb2964d884eb5bb032ac94d819f19a26d3f6bc2a2a03e60f3df0ed07d1",
+    "lib/domain/puzzle.dart": "d59c71f5355fef4d349fe72c7fa8eaadd7e06429873cdf5f16a7f87073e11003",
+    "pubspec.lock": "1e6014026d710d70eb01d54cc1aedc689e42fa231324630340444ffd7275334b",
+    "test-signing/potion-post-ads-test.jks": "341043250aa15a2e2fc006d1fe6d55e84ca09529b8cad167f8272338e9fa94de",
+    "android/app/src/main/kotlin/com/castilla/potion_post/MainActivity.kt": "5cf9a2fd21e865f5c174a5eb52ca1b32927f08515641359bd3243e9bb96788dd"
+  }
+}

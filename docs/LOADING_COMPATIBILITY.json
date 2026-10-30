@@ -1,0 +1,16 @@
+{
+  "baseline_source_version": 19,
+  "baseline_app": "0.10.0+20",
+  "new_app": "0.10.1+21",
+  "unchanged_files": [
+    "assets/orders.json",
+    "lib/data/file_progress_store.dart",
+    "lib/data/progress_store.dart",
+    "lib/data/progress_store_types.dart",
+    "lib/domain/catalog.dart",
+    "lib/domain/economy.dart",
+    "lib/domain/puzzle.dart",
+    "lib/game_controller.dart",
+    "pubspec.lock"
+  ]
+}

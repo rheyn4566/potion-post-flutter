@@ -1,0 +1,727 @@
+[
+  {
+    "key": "lilypond-world",
+    "id": "lilypond",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png",
+    "prompt": "Use case: stylized-concept. Asset type: production background painting for the Flutter game Potion Post. Input image 1 is the EXISTING Lily Pond garden identity and style reference, not a UI screenshot. Create a polished FULL ENVIRONMENT version of this exact garden: same moss-roof postal cottage, teal round door, tiny waterfall, turquoise lily pond, wood bridge, reeds and warm lanterns. The ground and world must continue naturally to ALL four canvas edges, opaque image; absolutely NO floating island, miniature cutout, pedestal, dark silhouette boundary, frame or vignette. Elevated three-quarter camera about 25 degrees downward, coherent storybook game scale, beautifully rounded shapes and restrained small details. Landscape and animals will be integrated as separate layers later. PORTRAIT 2:3 composition, generous readable composition: cottage occupies upper left/top third, pond and bridge occupy right middle, a broad dry curved stone-and-grass path across the center/lower middle with two unobstructed places for small standing couriers around normalized (0.40,0.61) and (0.64,0.65). The bottom quarter is calm continuous grass/path for an overlay HUD, top edge leafy environment. Warm soft light from upper left, mint and forest greens with lilac touches, cohesive matte dimensional painterly game art. Keep same cottage identity; preserve pond theme. No animals, people, text, numbers, icons, logos, controls, UI, borders or watermarks. This is scenery only, not an app mockup.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/project/potion_post/assets/gardens/lilypond-scene.webp"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-lilypond.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 768440
+  },
+  {
+    "key": "moonbloom-world",
+    "id": "moonbloom",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-3871ea36-379c-4688-aff6-c17df40b0476.png",
+    "prompt": "Use case: stylized-concept. Asset type: full environment game background. Image 1 is our existing Moonbloom woodland garden identity; image 2 sets our new continuous-world composition and elevated camera. Create Moonbloom as a full opaque PORTRAIT 2:3 garden world: same blue-tiled cozy postal cottage, glowing amber windows and lanterns, mint/lilac woodland foliage and a quiet moonlit stream. Cottage in upper left/top third, stream to the right middle. Broad dry stone-and-grass path and clearing in center and lower half for independently rendered SMALL animal couriers near normalized (0.40,0.65) and (0.65,0.69). World continues naturally to every canvas edge, soft overhanging branches upper corners, grounded rocks and plants at edges. Elevated three-quarter view looking down about25 degrees, rounded matte dimensional painterly casual-game art, blue-hour environment with gentle warm light from upper left lanterns, soft silhouettes. Maintain recognizable cottage identity but improve coherent world scale. Calm readable lower quarter for live controls. No animals or people, no UI, text, logos, frame, vignette, floating island, miniature diorama, pedestal or isolated scene boundary. One full environment only.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/project/potion_post/assets/scenes/woodland.webp",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-moonbloom.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 750652
+  },
+  {
+    "key": "sunpetal-world",
+    "id": "sunpetal",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-0a10c4ac-68ae-4e7a-a638-87997518c8bd.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Sunpetal' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Sunpetal', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-sunpetal.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 799742
+  },
+  {
+    "key": "stargrove-world",
+    "id": "stargrove",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-1f8da677-34da-4b35-b649-b77bb08dee92.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Starlit Grove' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Starlit Grove', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-stargrove.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 759550
+  },
+  {
+    "key": "frostfern-world",
+    "id": "frostfern",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-e9092b97-6521-4ce4-aad4-1ee75d5a34c0.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Frostfern' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Frostfern', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-frostfern.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 693910
+  },
+  {
+    "key": "amberorchard-world",
+    "id": "amberorchard",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-462eeb47-d1e9-4738-945d-624ca589c85b.png",
+    "prompt": "Use case: stylized-concept. Asset type: production full environment background painting for Potion Post. Image 1 is the ONLY target garden identity. Image 2 is ONLY a composition and camera-height reference; do NOT copy its moss cottage, lily pond or bridge. Create a full opaque PORTRAIT 2:3 environment of: Amber Orchard: orange and red autumn fruit trees loaded with apples/pears, warm curved orange-tiled cozy cottage roof around the tree trunk, small wooden gate and fence, harvested fruit baskets, stone birdbath and fallen autumn leaves. Use the referenced cottage shape and orchard setting, no sunflowers. Place the distinctive building in upper third, theme-specific feature at the right or left middle. Broad dry walkable stone/earth path across center and lower foreground, with open places for separate small standing couriers around normalized (0.40,0.65) and (0.65,0.69). Continue scenery naturally to ALL four edges with no island edge, no pedestal, no diorama, no vignette. Elevated three-quarter camera looking down about25 degrees. Coherent rounded matte dimensional storybook casual-game painting, soft warm upper-left lighting, readable uncluttered foreground, detail focused around edges. Bottom quarter calm continuous ground for HUD. No animals, people, text, labels, icons, logos, numbers, UI, frames or watermark. Match the identity and materials in image1 precisely, while expanding it into an entire location.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/project/potion_post/assets/gardens/amberorchard-scene.webp",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-amberorchard.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 765658
+  },
+  {
+    "key": "coralcove-world",
+    "id": "coralcove",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-8e88b150-8e90-4bba-b5d9-65c8dd7d46b2.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Coral Cove' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Coral Cove', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-coralcove.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 749300
+  },
+  {
+    "key": "lanternleaf-world",
+    "id": "lanternleaf",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-3adf6d81-3b99-428d-9b97-7dd418571c1d.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Lanternleaf Conservatory' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Lanternleaf Conservatory', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-lanternleaf.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 776252
+  },
+  {
+    "key": "copperwind-world",
+    "id": "copperwind",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-d3af48fc-b8d1-4529-86ef-c2643e98409e.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Copperwind Millgarden' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Copperwind Millgarden', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-copperwind.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 749254
+  },
+  {
+    "key": "cactuscrescent-world",
+    "id": "cactuscrescent",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-83634f89-97ed-472c-aca2-59df01504def.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Cactus Crescent' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Cactus Crescent', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-cactuscrescent.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 695988
+  },
+  {
+    "key": "cloudberry-world",
+    "id": "cloudberry",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-a3427dee-fd36-4532-8130-25e306fef708.png",
+    "prompt": "Use case: stylized-concept. Asset type: production full environment background painting for Potion Post. Image 1 is the ONLY target garden identity. Image 2 is ONLY a composition and camera-height reference; do NOT copy its moss cottage, lily pond or bridge. Create a full opaque PORTRAIT 2:3 environment of: Cloudberry Airpost: small rounded postal cottage with a TEAL curved turret roof and golden trim, teal mailbox, curved wooden boardwalk and a teal-and-cream mail hot-air balloon docked to the right. Cloudy distant valley beyond the hilltop, but continuous solid ground throughout foreground. Preserve the postal cottage and balloon from reference. No glass conservatory. Place the distinctive building in upper third, theme-specific feature at the right or left middle. Broad dry walkable stone/earth path across center and lower foreground, with open places for separate small standing couriers around normalized (0.40,0.65) and (0.65,0.69). Continue scenery naturally to ALL four edges with no island edge, no pedestal, no diorama, no vignette. Elevated three-quarter camera looking down about25 degrees. Coherent rounded matte dimensional storybook casual-game painting, soft warm upper-left lighting, readable uncluttered foreground, detail focused around edges. Bottom quarter calm continuous ground for HUD. No animals, people, text, labels, icons, logos, numbers, UI, frames or watermark. Match the identity and materials in image1 precisely, while expanding it into an entire location.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/project/potion_post/assets/gardens/cloudberry-scene.webp",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-cloudberry.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 753568
+  },
+  {
+    "key": "porcelainteacourt-world",
+    "id": "porcelainteacourt",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-6af15a92-00ca-4b63-b827-406e854a2270.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Porcelain Teacourt' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Porcelain Teacourt', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-porcelainteacourt.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 760720
+  },
+  {
+    "key": "emberglow-world",
+    "id": "emberglow",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-e7170171-c558-4f32-8c07-028add7c17dc.png",
+    "prompt": "Use case: stylized-concept. Asset type: production full environment background painting for Potion Post. Image 1 is the ONLY target garden identity. Image 2 is ONLY a composition and camera-height reference; do NOT copy its moss cottage, lily pond or bridge. Create a full opaque PORTRAIT 2:3 environment of: Emberglow Springs: Japanese-inspired cozy small bathhouse with dark curved blue-grey tiled roof, circular glowing window, red maple trees and two turquoise geothermal rock pools with soft steam, wooden footbridge, bamboo water spout and lanterns. Preserve these exact theme elements from reference. No cactus, desert, terracotta dome or sunflowers. Place the distinctive building in upper third, theme-specific feature at the right or left middle. Broad dry walkable stone/earth path across center and lower foreground, with open places for separate small standing couriers around normalized (0.40,0.65) and (0.65,0.69). Continue scenery naturally to ALL four edges with no island edge, no pedestal, no diorama, no vignette. Elevated three-quarter camera looking down about25 degrees. Coherent rounded matte dimensional storybook casual-game painting, soft warm upper-left lighting, readable uncluttered foreground, detail focused around edges. Bottom quarter calm continuous ground for HUD. No animals, people, text, labels, icons, logos, numbers, UI, frames or watermark. Match the identity and materials in image1 precisely, while expanding it into an entire location.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/project/potion_post/assets/gardens/emberglow-scene.webp",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-emberglow.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 791288
+  },
+  {
+    "key": "honeycombhaven-world",
+    "id": "honeycombhaven",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-93a58f63-81b4-4f90-9823-278cce404fc9.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Honeycomb Haven' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Honeycomb Haven', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-honeycombhaven.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 732682
+  },
+  {
+    "key": "rootcellar-world",
+    "id": "rootcellar",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-f7722d54-ea94-46bd-8d16-6fd886dcb7a5.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Rootcellar Retreat' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Rootcellar Retreat', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-rootcellar.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 799338
+  },
+  {
+    "key": "pumpkinpatch-world",
+    "id": "pumpkinpatch",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-cf3771b1-e4f8-47ee-91fa-4e5e6ac4e806.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Pumpkin Lantern Patch' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Pumpkin Lantern Patch', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-pumpkinpatch.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 746376
+  },
+  {
+    "key": "raindroproof-world",
+    "id": "raindroproof",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-fbe5dd53-c19b-4608-b83c-68255dcd0b00.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Raindrop Roofgarden' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Raindrop Roofgarden', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-raindroproof.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 761338
+  },
+  {
+    "key": "saffronspice-world",
+    "id": "saffronspice",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-81a422a7-0f17-47f4-b028-93c94e1ed9be.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Saffron Spiceyard' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Saffron Spiceyard', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-saffronspice.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 755594
+  },
+  {
+    "key": "ribbonwind-world",
+    "id": "ribbonwind",
+    "kind": "world",
+    "original": "/workspace/scratch/b5cff565e611/generated_images/exec-75e9efd2-2c38-44d6-a208-3dd57f800af3.png",
+    "prompt": "Use case: stylized-concept. Asset type: production FULL-ENVIRONMENT background for Potion Post, portrait 2:3. Image 1 is a labeled reference atlas of our EXISTING garden identities: use ONLY the tile labeled 'Ribbonwind Festival Garden' as the architectural/theme reference. Image 2 is our approved full-world Lily Pond, use its camera height, continuous scenery, broad foreground path and polished storybook painting quality as the composition/style reference. Create a NEW full environment for 'Ribbonwind Festival Garden', preserving the target tile's distinctive building, plants, materials and theme; keep that garden recognizable. Place the target cottage/building/landmark in the UPPER THIRD, with its themed garden terrain continuing naturally to ALL FOUR EDGES. Compose a generous broad DRY WALKABLE PATH/CLEARING through center and lower middle, suitable for separate small standing animal sprites near normalized (0.40,0.65) and (0.65,0.69). The bottom quarter has calm continuous ground for the live HUD, without baked UI. Elevated three-quarter camera looking down about 25 degrees; coherent large-world scale, soft warm light from upper left, matte dimensional painterly game art, broad rounded shapes, careful detail at outer edges, uncluttered readable path. Expand the garden into a real location: scenery connects continuously beyond the canvas. NO floating island, miniature diorama boundary, pedestal, black cutout outline, frame, collage, vignette or isolated garden disk. No animals, people, lettering, names, icons, numbers, logos, buttons, UI, watermarks or screenshots. Fully opaque environment painting, not transparent. Render only ONE scene, not an atlas; do not copy labels or other atlas gardens.",
+    "references": [
+      "/workspace/scratch/b5cff565e611/qa/world-existing-atlas.png",
+      "/workspace/scratch/b5cff565e611/generated_images/exec-0d3e6db2-8787-4ed1-a47e-78eadd3ee624.png"
+    ],
+    "tool": "built-in image_gen",
+    "path": "assets/worlds/world-ribbonwind.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 751672
+  },
+  {
+    "id": "axolotl",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/axolotl.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-axolotl.webp",
+    "width": 536,
+    "height": 689,
+    "alpha_margin_crop": [
+      20,
+      15,
+      556,
+      704
+    ],
+    "bytes": 137078
+  },
+  {
+    "id": "badger",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/badger.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-badger.webp",
+    "width": 469,
+    "height": 690,
+    "alpha_margin_crop": [
+      53,
+      14,
+      522,
+      704
+    ],
+    "bytes": 140560
+  },
+  {
+    "id": "bat",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/bat.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-bat.webp",
+    "width": 511,
+    "height": 690,
+    "alpha_margin_crop": [
+      32,
+      14,
+      543,
+      704
+    ],
+    "bytes": 119430
+  },
+  {
+    "id": "beaver",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/beaver.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-beaver.webp",
+    "width": 552,
+    "height": 667,
+    "alpha_margin_crop": [
+      12,
+      26,
+      564,
+      693
+    ],
+    "bytes": 123936
+  },
+  {
+    "id": "capybara",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/capybara.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-capybara.webp",
+    "width": 441,
+    "height": 690,
+    "alpha_margin_crop": [
+      67,
+      14,
+      508,
+      704
+    ],
+    "bytes": 131348
+  },
+  {
+    "id": "cat",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/cat.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-cat.webp",
+    "width": 551,
+    "height": 617,
+    "alpha_margin_crop": [
+      13,
+      51,
+      564,
+      668
+    ],
+    "bytes": 105500
+  },
+  {
+    "id": "chameleon",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/chameleon.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-chameleon.webp",
+    "width": 552,
+    "height": 669,
+    "alpha_margin_crop": [
+      12,
+      25,
+      564,
+      694
+    ],
+    "bytes": 131528
+  },
+  {
+    "id": "deer",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/deer.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-deer.webp",
+    "width": 397,
+    "height": 689,
+    "alpha_margin_crop": [
+      89,
+      15,
+      486,
+      704
+    ],
+    "bytes": 100326
+  },
+  {
+    "id": "dragon",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/generated_images/exec-31bffcec-2622-40b3-970b-100505cafdfe.png",
+    "new_generated_pose": true,
+    "path": "assets/worlds/pose-dragon.webp",
+    "width": 585,
+    "height": 768,
+    "alpha_margin_crop": [
+      128,
+      68,
+      1098,
+      1342
+    ],
+    "bytes": 124110,
+    "prompt": "Use case: identity-preserve. Asset type: one transparent in-game world sprite for Potion Post. Input image is Pip, the existing mint baby dragon courier. Preserve the exact character identity, mint body, cream belly, golden horns, little wings, large expressive dark eyes, coral-red mail satchel, and cute proportions. Render ONE whole-body standing idle pose in an elevated three-quarter game-world view, camera looking down about 25 degrees. Slightly turned toward image right, both feet planted on the same ground plane, tail comfortably resting, relaxed friendly smile, wings folded a little. This is a small inhabitant of a storybook garden, not a large portrait or jumping character. Match softly painted dimensional game art, broad clean rounded shapes, matte finish and soft warm key light from upper left, gently darker underside, without hard white rim lighting or photographic fur texture. Clean isolated silhouette, true transparent background. No ground slab, no pedestal, no scene, no props beyond the existing satchel, no drop shadow (the game will draw it), no UI or text. Preserve feet, horns, wings and tail entirely within canvas with small transparent margins. One character only; no variants or sprite sheet.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "duck",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/duck.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-duck.webp",
+    "width": 415,
+    "height": 690,
+    "alpha_margin_crop": [
+      81,
+      14,
+      496,
+      704
+    ],
+    "bytes": 99336
+  },
+  {
+    "id": "ferret",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/ferret.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-ferret.webp",
+    "width": 531,
+    "height": 690,
+    "alpha_margin_crop": [
+      22,
+      14,
+      553,
+      704
+    ],
+    "bytes": 126362
+  },
+  {
+    "id": "fox",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/fox.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-fox.webp",
+    "width": 552,
+    "height": 620,
+    "alpha_margin_crop": [
+      12,
+      49,
+      564,
+      669
+    ],
+    "bytes": 106024
+  },
+  {
+    "id": "frog",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/generated_images/exec-9213fca9-ee2c-4817-950c-b436d39228ed.png",
+    "new_generated_pose": true,
+    "path": "assets/worlds/pose-frog.webp",
+    "width": 595,
+    "height": 768,
+    "alpha_margin_crop": [
+      135,
+      117,
+      1054,
+      1304
+    ],
+    "bytes": 124246,
+    "prompt": "Use case: identity-preserve. Asset type: transparent world sprite for Potion Post. Preserve existing Moss the frog exactly: chubby lime-green frog, cream face and belly, large dark eyes, small sprout on head and brown diagonal mail satchel. ONE whole-body relaxed standing idle pose, both feet planted, body turned slightly to image right. Elevated three-quarter game camera looks down about25 degrees, with visible top of head and feet, fitting our woodland garden world. Softer matte dimensional storybook game art, clean rounded readable shapes and warm diffuse upper-left lighting. Preserve identity and charming proportions while avoiding sharp photographic texture or bright cutout rims. True transparent background, clean alpha silhouette and small margins. No ground, pedestal, scene, baked shadow, UI, text or extra character. Single standing pose, not a sprite sheet.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "hedgehog",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/hedgehog.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-hedgehog.webp",
+    "width": 552,
+    "height": 663,
+    "alpha_margin_crop": [
+      12,
+      28,
+      564,
+      691
+    ],
+    "bytes": 141850
+  },
+  {
+    "id": "koala",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/koala.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-koala.webp",
+    "width": 499,
+    "height": 690,
+    "alpha_margin_crop": [
+      39,
+      14,
+      538,
+      704
+    ],
+    "bytes": 134056
+  },
+  {
+    "id": "moth",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/moth.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-moth.webp",
+    "width": 551,
+    "height": 552,
+    "alpha_margin_crop": [
+      12,
+      84,
+      563,
+      636
+    ],
+    "bytes": 108188
+  },
+  {
+    "id": "mouse",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/mouse.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-mouse.webp",
+    "width": 501,
+    "height": 691,
+    "alpha_margin_crop": [
+      37,
+      14,
+      538,
+      705
+    ],
+    "bytes": 136442
+  },
+  {
+    "id": "otter",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/otter.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-otter.webp",
+    "width": 552,
+    "height": 600,
+    "alpha_margin_crop": [
+      12,
+      59,
+      564,
+      659
+    ],
+    "bytes": 105914
+  },
+  {
+    "id": "owl",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/owl.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-owl.webp",
+    "width": 551,
+    "height": 570,
+    "alpha_margin_crop": [
+      12,
+      75,
+      563,
+      645
+    ],
+    "bytes": 102118
+  },
+  {
+    "id": "penguin",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/penguin.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-penguin.webp",
+    "width": 514,
+    "height": 690,
+    "alpha_margin_crop": [
+      31,
+      14,
+      545,
+      704
+    ],
+    "bytes": 111628
+  },
+  {
+    "id": "rabbit",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/generated_images/exec-29d6367a-905a-4c47-988e-d06a05000643.png",
+    "new_generated_pose": true,
+    "path": "assets/worlds/pose-rabbit.webp",
+    "width": 511,
+    "height": 768,
+    "alpha_margin_crop": [
+      168,
+      26,
+      1051,
+      1354
+    ],
+    "bytes": 111220,
+    "prompt": "Use case: identity-preserve. Asset type: one transparent in-game world sprite for Potion Post. Input image is Clover, the existing tan-and-cream rabbit courier with huge ears, purple cape/scarf with gold star clasp, teal mail satchel and tiny purple potion. Preserve this identity, markings, clothing and friendly large dark eyes. Make ONE whole-body standing RESTING idle pose, viewed by an elevated three-quarter camera looking down about 25 degrees, turned gently toward image left. Both hind feet planted on the SAME ground plane, no raised walking foot, no jumping, no floating. Carry the existing satchel close to body. Match softly painted dimensional storybook game art with broad clean rounded shapes and a matte finish, soft warm light from upper left, natural soft shading; no photographic fur microtexture, bright cutout halo or hard white rim. True transparent background, clean silhouette with small margins around ears and feet. No backdrop, ground slab, scene, pedestal, baked shadow, UI or lettering. One rabbit only; no variants or sprite sheet.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": "raccoon",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/raccoon.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-raccoon.webp",
+    "width": 551,
+    "height": 581,
+    "alpha_margin_crop": [
+      13,
+      69,
+      564,
+      650
+    ],
+    "bytes": 111080
+  },
+  {
+    "id": "redpanda",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/redpanda.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-redpanda.webp",
+    "width": 521,
+    "height": 688,
+    "alpha_margin_crop": [
+      27,
+      16,
+      548,
+      704
+    ],
+    "bytes": 128462
+  },
+  {
+    "id": "sloth",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/sloth.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-sloth.webp",
+    "width": 412,
+    "height": 690,
+    "alpha_margin_crop": [
+      82,
+      15,
+      494,
+      705
+    ],
+    "bytes": 120372
+  },
+  {
+    "id": "squirrel",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/squirrel.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-squirrel.webp",
+    "width": 549,
+    "height": 690,
+    "alpha_margin_crop": [
+      14,
+      15,
+      563,
+      705
+    ],
+    "bytes": 142854
+  },
+  {
+    "id": "turtle",
+    "kind": "character-pose",
+    "source": "/workspace/scratch/b5cff565e611/project/potion_post/assets/characters/turtle.webp",
+    "new_generated_pose": false,
+    "path": "assets/worlds/pose-turtle.webp",
+    "width": 529,
+    "height": 689,
+    "alpha_margin_crop": [
+      23,
+      15,
+      552,
+      704
+    ],
+    "bytes": 130398
+  }
+]

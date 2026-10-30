@@ -1,0 +1,86 @@
+Waiting for another flutter command to release the startup lock...
+00:00 +0: loading /workspace/scratch/ff743b2facec/project/potion_post/test/tool_test.dart
+00:00 +0: /workspace/scratch/ff743b2facec/project/potion_post/test/tool_test.dart: Daily hints and undos are limited; restarting and failed actions do not charge tools
+00:00 +1: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Recovery stays protected while reading, including repeated Retry taps
+00:00 +2: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Recovery stays protected while reading, including repeated Retry taps
+00:00 +3: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Recovery stays protected while reading, including repeated Retry taps
+00:00 +4: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Saved story, daily route, partial board and tools survive separate process termination
+00:00 +5: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Saved story, daily route, partial board and tools survive separate process termination
+00:00 +6: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Saved story, daily route, partial board and tools survive separate process termination
+00:00 +7: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Saved story, daily route, partial board and tools survive separate process termination
+00:00 +8: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Saved story, daily route, partial board and tools survive separate process termination
+00:00 +9: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Saved story, daily route, partial board and tools survive separate process termination
+00:00 +10: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Saved story, daily route, partial board and tools survive separate process termination
+00:00 +11: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Saved story, daily route, partial board and tools survive separate process termination
+00:00 +12: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: Saved story, daily route, partial board and tools survive separate process termination
+00:01 +13: /workspace/scratch/ff743b2facec/project/potion_post/test/game_test.dart: Garden colors unlock with routes, persist, and never spend stamps or reset a puzzle
+00:01 +14: /workspace/scratch/ff743b2facec/project/potion_post/test/game_test.dart: Garden colors unlock with routes, persist, and never spend stamps or reset a puzzle
+00:01 +15: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: A valid-JSON checksum mismatch recovers the second copy without a reset
+00:01 +16: /workspace/scratch/ff743b2facec/project/potion_post/test/progress_store_test.dart: A valid-JSON checksum mismatch recovers the second copy without a reset
+00:01 +17: /workspace/scratch/ff743b2facec/project/potion_post/test/game_test.dart: All 1480 orders retain valid shortest solution certificates
+00:01 +18: /workspace/scratch/ff743b2facec/project/potion_post/test/game_test.dart: All 1480 orders retain valid shortest solution certificates
+00:01 +19: /workspace/scratch/ff743b2facec/project/potion_post/test/game_test.dart: All 1480 orders retain valid shortest solution certificates
+00:01 +20: /workspace/scratch/ff743b2facec/project/potion_post/test/game_test.dart: All 1480 orders retain valid shortest solution certificates
+00:01 +21: /workspace/scratch/ff743b2facec/project/potion_post/test/game_test.dart: All 1480 orders retain valid shortest solution certificates
+00:01 +22: /workspace/scratch/ff743b2facec/project/potion_post/test/game_test.dart: All 1480 orders retain valid shortest solution certificates
+00:02 +23: /workspace/scratch/ff743b2facec/project/potion_post/test/game_test.dart: All 1480 orders retain valid shortest solution certificates
+00:04 +24: /workspace/scratch/ff743b2facec/project/potion_post/test/art_integration_test.dart: Garden collection previews a new scene without bypassing progression and fits short displays
+00:04 +25: /workspace/scratch/ff743b2facec/project/potion_post/test/art_integration_test.dart: Garden collection previews a new scene without bypassing progression and fits short displays
+00:04 +26: /workspace/scratch/ff743b2facec/project/potion_post/test/art_integration_test.dart: Garden collection previews a new scene without bypassing progression and fits short displays
+00:04 +27: /workspace/scratch/ff743b2facec/project/potion_post/test/art_integration_test.dart: Garden collection previews a new scene without bypassing progression and fits short displays
+00:04 +28: /workspace/scratch/ff743b2facec/project/potion_post/test/art_integration_test.dart: Garden collection previews a new scene without bypassing progression and fits short displays
+00:04 +29: /workspace/scratch/ff743b2facec/project/potion_post/test/art_integration_test.dart: Garden collection previews a new scene without bypassing progression and fits short displays
+00:06 +30: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:06 +31: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:07 +32: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:08 +33: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:08 +34: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:08 +35: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:08 +36: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:08 +37: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:09 +38: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:09 +39: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: All five destinations fit phones, tablets and landscape above one persistent banner
+00:09 +40: /workspace/scratch/ff743b2facec/project/potion_post/test/economy_test.dart: Decorations and animal purchases persist without buying story progress
+00:09 +41: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Garden growth, selected looks and next story order survive tab changes
+00:09 +42: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Garden growth, selected looks and next story order survive tab changes
+00:09 +43: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Garden growth, selected looks and next story order survive tab changes
+00:09 +44: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Garden growth, selected looks and next story order survive tab changes
+00:09 +45: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Garden growth, selected looks and next story order survive tab changes
+00:09 +46: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Garden growth, selected looks and next story order survive tab changes
+00:09 +47: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Garden growth, selected looks and next story order survive tab changes
+00:10 +48: /workspace/scratch/ff743b2facec/project/potion_post/test/economy_test.dart: Recipe meter reaches 100% exactly when every recipe board is solved
+00:10 +49: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Daily customer tickets open the correct saved order and pause resumes it
+00:10 +50: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Friend invitations preview the actual animal and spend once after confirmation
+00:11 +51: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Friend invitations preview the actual animal and spend once after confirmation
+00:11 +52: /workspace/scratch/ff743b2facec/project/potion_post/test/woodland_test.dart: Friend invitations preview the actual animal and spend once after confirmation
+00:11 +53: /workspace/scratch/ff743b2facec/project/potion_post/test/polish_test.dart: Daily uses one continuous full-screen plate and compact tappable tickets
+00:12 +54: /workspace/scratch/ff743b2facec/project/potion_post/test/polish_test.dart: Daily uses one continuous full-screen plate and compact tappable tickets
+00:13 +55: /workspace/scratch/ff743b2facec/project/potion_post/test/frame_alignment_test.dart: Native button, panel and dialog surfaces cover the complete face at Android density
+00:13 +56: /workspace/scratch/ff743b2facec/project/potion_post/test/polish_test.dart: Gameplay backdrop fills the viewport outside the constrained controls
+00:13 +57: /workspace/scratch/ff743b2facec/project/potion_post/test/frame_alignment_test.dart: Uploaded Android screenshot dimensions align all five tabs, gameplay and pause above the persistent banner
+00:14 +58: /workspace/scratch/ff743b2facec/project/potion_post/test/frame_alignment_test.dart: Uploaded Android screenshot dimensions align all five tabs, gameplay and pause above the persistent banner
+00:16 +59: /workspace/scratch/ff743b2facec/project/potion_post/test/selection_route_test.dart: Shop choices apply to Home, Gardens and Orders and survive restart
+00:18 +60: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: Save read failures show recovery and never overwrite existing progress with zero
+00:18 +61: /workspace/scratch/ff743b2facec/project/potion_post/test/selection_route_test.dart: Stone level targets fit small and landscape routes
+00:19 +62: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: One bottom system inset keeps the banner and game controls separated
+00:19 +63: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: One bottom system inset keeps the banner and game controls separated
+00:19 +64: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: Rewarded tool refills require opt-in, grant once and leave free play available
+00:20 +65: /workspace/scratch/ff743b2facec/project/potion_post/test/release_polish_test.dart: Tablet level controls are large and map stops remain usable
+00:20 +66: /workspace/scratch/ff743b2facec/project/potion_post/test/release_polish_test.dart: Tablet level controls are large and map stops remain usable
+00:20 +67: /workspace/scratch/ff743b2facec/project/potion_post/test/release_polish_test.dart: Tablet level controls are large and map stops remain usable
+00:21 +68: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: Continue stays visible with optional reward on short screens and landscape
+00:21 +69: /workspace/scratch/ff743b2facec/project/potion_post/test/release_polish_test.dart: Adaptive banner heights leave every destination and victory usable
+00:22 +70: /workspace/scratch/ff743b2facec/project/potion_post/test/release_polish_test.dart: Adaptive banner heights leave every destination and victory usable
+00:23 +71: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: Coin shop grants only earned ads, keeps the banner without unfinished cash packs
+00:23 +72: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: Coin shop grants only earned ads, keeps the banner without unfinished cash packs
+00:24 +73: /workspace/scratch/ff743b2facec/project/potion_post/test/release_polish_test.dart: Settings use the real brand, save working preferences and fit short screens
+00:24 +74: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: Confirmed shop purchases spend coins once, cancel is free and story stays locked
+00:24 +75: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: Confirmed shop purchases spend coins once, cancel is free and story stays locked
+00:24 +76: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: Late shop earned callback remains once-only after its page closes
+00:25 +77: /workspace/scratch/ff743b2facec/project/potion_post/test/ui_test.dart: Shop save failure exposes retry without repeating a coin purchase
+00:25 +78: /workspace/scratch/ff743b2facec/project/potion_post/test/world_test.dart: Cold tablet tabs reveal decoded artwork within a bounded working set
+00:27 +79: /workspace/scratch/ff743b2facec/project/potion_post/test/world_test.dart: Every route resolves to an opaque-world asset and every courier has a grounded pose
+00:27 +80: /workspace/scratch/ff743b2facec/project/potion_post/test/world_test.dart: Garden previews change the world without changing the saved selected garden
+00:28 +81: /workspace/scratch/ff743b2facec/project/potion_post/test/world_test.dart: World inhabitants fit the clear scene and keep their ground contact while breathing
+00:29 +82: /workspace/scratch/ff743b2facec/project/potion_post/test/world_test.dart: Ordinary hub, shop and puzzle controls have no decorative flower clusters
+00:30 +83: All tests passed!

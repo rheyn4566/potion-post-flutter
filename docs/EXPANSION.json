@@ -1,0 +1,94 @@
+{
+  "originalOrdersPreserved": 1000,
+  "originalOrdersSha256": "c40eb248427bfe12c0f99b48a1d547d3469b1341983b6d6832ff0e67e2bff223",
+  "addedOrders": 480,
+  "orders": 1480,
+  "gardens": 43,
+  "characters": 26,
+  "routes": [
+    {
+      "garden": "lanternleaf",
+      "firstOrder": 1000,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 12
+    },
+    {
+      "garden": "copperwind",
+      "firstOrder": 1040,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 10
+    },
+    {
+      "garden": "cactuscrescent",
+      "firstOrder": 1080,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 12
+    },
+    {
+      "garden": "cloudberry",
+      "firstOrder": 1120,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 11
+    },
+    {
+      "garden": "porcelainteacourt",
+      "firstOrder": 1160,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 10
+    },
+    {
+      "garden": "emberglow",
+      "firstOrder": 1200,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 11
+    },
+    {
+      "garden": "honeycombhaven",
+      "firstOrder": 1240,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 11
+    },
+    {
+      "garden": "rootcellar",
+      "firstOrder": 1280,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 12
+    },
+    {
+      "garden": "pumpkinpatch",
+      "firstOrder": 1320,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 10
+    },
+    {
+      "garden": "raindroproof",
+      "firstOrder": 1360,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 11
+    },
+    {
+      "garden": "saffronspice",
+      "firstOrder": 1400,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 10
+    },
+    {
+      "garden": "ribbonwind",
+      "firstOrder": 1440,
+      "count": 40,
+      "minimumPours": 5,
+      "maximumPours": 10
+    }
+  ]
+}

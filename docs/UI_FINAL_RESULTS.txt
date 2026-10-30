@@ -1,0 +1,28 @@
+Resolving dependencies...
+Downloading packages...
+  material_color_utilities 0.13.0 (0.13.1 available)
+  shared_preferences_android 2.5.0 (2.5.1 available)
+  test_api 0.7.12 (0.7.15 available)
+  webview_flutter_wkwebview 3.27.0 (3.27.1 available)
+Got dependencies!
+4 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+00:00 +0: loading /workspace/scratch/adddd18cea02/project/potion_post/test/ui_test.dart
+00:00 +0: Save read failures show recovery and never overwrite existing progress with zero
+00:02 +1: One bottom system inset keeps the banner and game controls separated
+00:02 +2: Rewarded tool refills require opt-in, grant once and leave free play available
+00:03 +3: A reopened daily session resumes its saved order instead of story zero
+00:03 +4: Daily hub and game pause reserve a bottom banner and resume the same puzzle
+00:04 +5: Route gardens apply their free colors and keep the active puzzle
+00:05 +6: Reserved bottom banner leaves Home controls clear on phones, tablets and landscape
+00:05 +7: Real animated pour remains usable and rewarded bonus is explicit and once-only
+00:06 +8: Unavailable reward can be retried but never auto-plays; skipping keeps normal coins
+00:06 +9: Continue stays visible with optional reward on short screens and landscape
+00:07 +10: Four and five bottle layouts retain compact tablet spacing
+00:08 +11: Home route follows completed gardens even after replaying an old order
+00:08 +12: Coin shop grants only earned ads, keeps the banner and explains cash availability
+00:09 +13: Confirmed shop purchases spend coins once, cancel is free and story stays locked
+00:10 +14: Late shop earned callback remains once-only after its page closes
+00:11 +15: Shop save failure exposes retry without repeating a coin purchase
+00:11 +16: Completed gardens bloom without ratings and retain visible decorations
+00:11 +17: All tests passed!

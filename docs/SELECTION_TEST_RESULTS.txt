@@ -1,0 +1,3 @@
+00:00 +0: loading /workspace/scratch/ff743b2facec/project/potion_post/test/selection_route_test.dart
+00:00 +0: Shop choices apply to Home, Gardens and Orders and survive restart
+00:05 +1: All tests passed!

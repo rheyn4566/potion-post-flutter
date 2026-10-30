@@ -1,0 +1,13 @@
+{
+  "baseline": "0.9.0+19 source, canonical version 18",
+  "orders": 1480,
+  "complete_orders_asset_unchanged": true,
+  "original_1000_order_payloads_preserved": true,
+  "unchanged_controller_domain_storage_files": [
+    "lib/domain/catalog.dart",
+    "lib/domain/economy.dart",
+    "lib/domain/puzzle.dart",
+    "lib/game_controller.dart"
+  ],
+  "comparison": "Exact byte equality for listed Dart sources; full JSON equality including all order IDs and puzzle payloads."
+}

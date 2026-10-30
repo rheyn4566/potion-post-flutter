@@ -1,0 +1,11 @@
+{
+  "apk_name": "potion-post-v0.12.0-build23.apk",
+  "apk_bytes": 119094110,
+  "apk_sha256": "1a176a23874919587e97f30ce34b13697e3058a82a3857f86b6b9c7b3c7a6c36",
+  "zip_name": "potion-post-v0.12.0-install.zip",
+  "zip_bytes": 88975391,
+  "zip_sha256": "b8ebca3777118e934074b7117063ccfe72dcbb26426b04f2eea2d746bfc8513f",
+  "zip_integrity_verified": true,
+  "inner_apk_byte_identical": true,
+  "instructions": "Extract the APK and install it as an Update to keep existing private progress."
+}

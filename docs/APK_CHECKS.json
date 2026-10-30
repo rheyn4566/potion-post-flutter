@@ -1,0 +1,77 @@
+{
+  "version": "0.6.8",
+  "build": 15,
+  "application_id": "com.castilla.potion_post.adtest",
+  "bytes": 87874202,
+  "sha256": "85b8b5787d1e639a62fd7244f3d3f8fe2e501ff6ed434e3fc35beb3ca583ed33",
+  "signer_sha256": "acb414b0ac86b42b614fc63e7dc50bc6c74a518eadd4068bad95bc333ac08a35",
+  "orders": 1000,
+  "garden_pngs": 124,
+  "characters": 10,
+  "zip_crc": "pass",
+  "alignment_16k": "pass",
+  "elf_bounds": "pass",
+  "visible_version_all_abis": "pass",
+  "native_files": [
+    {
+      "path": "lib/arm64-v8a/libapp.so",
+      "bytes": 5637000,
+      "sha256": "11f8b10c3e4f59e62caacaa0d0ef4937e546ab5dddc3385a40d97a3e6a1fea9d"
+    },
+    {
+      "path": "lib/arm64-v8a/libdartjni.so",
+      "bytes": 131248,
+      "sha256": "a943a1ca47a34dd9153d5df52f6bcf832d1b048c35101dc8c80e7a1476dfa182"
+    },
+    {
+      "path": "lib/arm64-v8a/libdatastore_shared_counter.so",
+      "bytes": 7112,
+      "sha256": "d3e48717c9aa147e0ab21063ba0e8e0211cabf8bf40b222640829519edbf58e1"
+    },
+    {
+      "path": "lib/arm64-v8a/libflutter.so",
+      "bytes": 11747864,
+      "sha256": "f6236b2e26fa8abd9e438f672c88a33b0ba703421fb12edca304efccd2e11a46"
+    },
+    {
+      "path": "lib/armeabi-v7a/libapp.so",
+      "bytes": 6210120,
+      "sha256": "945e32369759131a586154e4a07cb9fffe5916ffdd854655ae50937c919b049a"
+    },
+    {
+      "path": "lib/armeabi-v7a/libdartjni.so",
+      "bytes": 81444,
+      "sha256": "d71229350ff442e56bc217dd23fba515c692cda17e8bf15b99c73fa905aedaa2"
+    },
+    {
+      "path": "lib/armeabi-v7a/libdatastore_shared_counter.so",
+      "bytes": 4416,
+      "sha256": "716c5d8d2cac8ca0edf65da8f139c7886b726ac79d542a14edeb94994ba6d3dc"
+    },
+    {
+      "path": "lib/armeabi-v7a/libflutter.so",
+      "bytes": 8615900,
+      "sha256": "31b3c9fe132d324b4aee885739c105f2bc2aabcc7a9f0733f1c6de4278c6998c"
+    },
+    {
+      "path": "lib/x86_64/libapp.so",
+      "bytes": 5833608,
+      "sha256": "67bc3c943ab72b619d2ab7f3323487da26098b7c10ccba7fd09328929e427b80"
+    },
+    {
+      "path": "lib/x86_64/libdartjni.so",
+      "bytes": 116640,
+      "sha256": "9c0477283ed4e93fda66fa501e526cc6566d177b1d7fceb01b55a4e9e0f2cfd6"
+    },
+    {
+      "path": "lib/x86_64/libdatastore_shared_counter.so",
+      "bytes": 6224,
+      "sha256": "fb6c9208988c49ae94943bc3236fa763ba584722e044fa4ea9a12d2941027105"
+    },
+    {
+      "path": "lib/x86_64/libflutter.so",
+      "bytes": 13051424,
+      "sha256": "e7233d989b5454bb1ac5ca0359522749c068fa7821e9cdc0c1b056fd43561265"
+    }
+  ]
+}

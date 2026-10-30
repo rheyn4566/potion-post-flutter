@@ -1,0 +1,180 @@
+{
+  "characters": {
+    "cat": {
+      "path": "assets/characters/cat.webp",
+      "bytes": 102128
+    },
+    "dragon": {
+      "path": "assets/characters/dragon.webp",
+      "bytes": 109858
+    },
+    "fox": {
+      "path": "assets/characters/fox.webp",
+      "bytes": 103850
+    },
+    "frog": {
+      "path": "assets/characters/frog.webp",
+      "bytes": 76610
+    },
+    "hedgehog": {
+      "path": "assets/characters/hedgehog.webp",
+      "bytes": 141566
+    },
+    "moth": {
+      "path": "assets/characters/moth.webp",
+      "bytes": 107540
+    },
+    "otter": {
+      "path": "assets/characters/otter.webp",
+      "bytes": 103514
+    },
+    "owl": {
+      "path": "assets/characters/owl.webp",
+      "bytes": 100292
+    },
+    "rabbit": {
+      "path": "assets/characters/rabbit.webp",
+      "bytes": 105162
+    },
+    "raccoon": {
+      "path": "assets/characters/raccoon.webp",
+      "bytes": 107400
+    },
+    "squirrel": {
+      "path": "assets/characters/squirrel.webp",
+      "bytes": 136930
+    },
+    "redpanda": {
+      "path": "assets/characters/redpanda.webp",
+      "bytes": 125818
+    },
+    "capybara": {
+      "path": "assets/characters/capybara.webp",
+      "bytes": 127552
+    },
+    "deer": {
+      "path": "assets/characters/deer.webp",
+      "bytes": 98318
+    },
+    "badger": {
+      "path": "assets/characters/badger.webp",
+      "bytes": 138638
+    },
+    "beaver": {
+      "path": "assets/characters/beaver.webp",
+      "bytes": 118838
+    },
+    "turtle": {
+      "path": "assets/characters/turtle.webp",
+      "bytes": 126138
+    },
+    "duck": {
+      "path": "assets/characters/duck.webp",
+      "bytes": 97646
+    },
+    "axolotl": {
+      "path": "assets/characters/axolotl.webp",
+      "bytes": 134234
+    },
+    "ferret": {
+      "path": "assets/characters/ferret.webp",
+      "bytes": 123612
+    },
+    "penguin": {
+      "path": "assets/characters/penguin.webp",
+      "bytes": 107728
+    },
+    "mouse": {
+      "path": "assets/characters/mouse.webp",
+      "bytes": 131170
+    },
+    "koala": {
+      "path": "assets/characters/koala.webp",
+      "bytes": 129040
+    },
+    "sloth": {
+      "path": "assets/characters/sloth.webp",
+      "bytes": 119300
+    },
+    "chameleon": {
+      "path": "assets/characters/chameleon.webp",
+      "bytes": 131110
+    },
+    "bat": {
+      "path": "assets/characters/bat.webp",
+      "bytes": 115280
+    }
+  },
+  "gardenScenes": {
+    "lilypond": "assets/gardens/lilypond-scene.webp",
+    "sunpetal": "assets/gardens/sunpetal-scene.webp",
+    "stargrove": "assets/gardens/stargrove-scene.webp",
+    "frostfern": "assets/gardens/frostfern-scene.webp",
+    "amberorchard": "assets/gardens/amberorchard-scene.webp",
+    "coralcove": "assets/gardens/coralcove-scene.webp",
+    "lanternleaf": "assets/gardens/lanternleaf-scene.webp",
+    "copperwind": "assets/gardens/copperwind-scene.webp",
+    "cactuscrescent": "assets/gardens/cactuscrescent-scene.webp",
+    "cloudberry": "assets/gardens/cloudberry-scene.webp",
+    "porcelainteacourt": "assets/gardens/porcelainteacourt-scene.webp",
+    "emberglow": "assets/gardens/emberglow-scene.webp",
+    "honeycombhaven": "assets/gardens/honeycombhaven-scene.webp",
+    "rootcellar": "assets/gardens/rootcellar-scene.webp",
+    "pumpkinpatch": "assets/gardens/pumpkinpatch-scene.webp",
+    "raindroproof": "assets/gardens/raindroproof-scene.webp",
+    "saffronspice": "assets/gardens/saffronspice-scene.webp",
+    "ribbonwind": "assets/gardens/ribbonwind-scene.webp"
+  },
+  "uiSprites": {
+    "dialog": [
+      502,
+      247
+    ],
+    "panel": [
+      515,
+      164
+    ],
+    "ticket": [
+      422,
+      166
+    ],
+    "button": [
+      505,
+      162
+    ],
+    "button-pressed": [
+      496,
+      165
+    ],
+    "button-cream": [
+      423,
+      148
+    ],
+    "navigation": [
+      709,
+      156
+    ],
+    "badge-active": [
+      325,
+      165
+    ],
+    "badge": [
+      354,
+      166
+    ],
+    "wallet": [
+      482,
+      186
+    ],
+    "step": [
+      531,
+      241
+    ],
+    "step-active": [
+      412,
+      228
+    ]
+  },
+  "processing": "Existing alpha preserved; sprite extraction and WebP packaging only.",
+  "slothEdit": "Built-in Imagegen background-extraction; physical character preserved."
+}

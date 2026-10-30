@@ -1,0 +1,17 @@
+{
+  "surface": "Flutter host widget test; not physical Android RAM",
+  "physical_size": [
+    1280,
+    2048
+  ],
+  "device_pixel_ratio": 2,
+  "maximum_cache_bytes": 104857600,
+  "cached_decoded_bytes_by_tab": {
+    "home": 51956388,
+    "daily": 51956388,
+    "gardens": 55306916,
+    "orders": 55306916,
+    "friends": 55306916
+  },
+  "every_visible_raw_image_decoded_before_reveal": true
+}

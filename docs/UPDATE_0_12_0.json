@@ -1,0 +1,25 @@
+{
+  "version": "0.12.0+23",
+  "new_images_generated_for_this_update": 0,
+  "stone_level_markers": true,
+  "cobbled_trail": true,
+  "saved_companions_on_home_gardens_map": true,
+  "matching_garden_shop_world": true,
+  "visible_purchased_ornaments": true,
+  "native_world_decode_and_reduced_camera_crop": true,
+  "tests_passed": 83,
+  "native_code_changes": {
+    "lib/arm64-v8a/libapp.so": {
+      "previous_sha256": "e3366ef4c9950c8cc1f0b963e5035bb9f2c7a2ff05116bec90cb9bb866e80f14",
+      "current_sha256": "4a158266389897dfe968a6bbf8297b3eacff588cdd5e0bffae4dc21552c1d29a"
+    },
+    "lib/armeabi-v7a/libapp.so": {
+      "previous_sha256": "3cb16bd6b7bdc05139b0135838f2ed4f7b8c6df5a1d041a92ad0133b989873ad",
+      "current_sha256": "3c34d894446eed5f9e0fd49559ddb9cda73fbca3022b0f062082c02bb089b6f6"
+    },
+    "lib/x86_64/libapp.so": {
+      "previous_sha256": "fd5649bc281bcc3a0b5828d76abae50827bf66f395358f0b222c7658baa878bc",
+      "current_sha256": "4f8a97918bcd31803f0447b403fc8352d006d2835410c9b3cba64103ae616b1b"
+    }
+  }
+}
